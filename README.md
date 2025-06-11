@@ -1,5 +1,7 @@
 # europa-cyano-project
 
+**Conceptualized by: [Jonas Gries from the Nova Development Team]**
+
 # **Project: Bio-Engineering an Autonomous, Oxygen-Producing Cyanobacterium for Europa's Ocean**
 
 ## **Introduction**
